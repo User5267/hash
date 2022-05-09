@@ -75,6 +75,7 @@ public class MyHashtable<K, V> {
 		}
 
 		public void run() {
+
 			Scanner example = new Scanner(System.in);
 			while (example.hasNext()) {
 				String k = example.next();
@@ -89,6 +90,7 @@ public class MyHashtable<K, V> {
 				} else {
 					hashtable.put(k, v);
 				}
+				System.out.println("Hello world!");
 			}
 		}
 	}
