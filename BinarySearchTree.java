@@ -7,7 +7,7 @@ import java.util.*;
 class BinarySearchTree {
 	
 
-		 //Driver Code
+		 // Driver Code
 	public static void main (String[] args) {
 		// Let us create following BST
 		BST binTree=new BST();
