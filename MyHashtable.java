@@ -90,7 +90,6 @@ public class MyHashtable<K, V> {
 				} else {
 					hashtable.put(k, v);
 				}
-				System.out.println("Hello world!");
 			}
 		}
 	}
